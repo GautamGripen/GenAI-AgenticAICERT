@@ -1,0 +1,19 @@
+# GenAI-AgenticAICERT
+
+# BMGR-MAY2025-GIAI-2
+
+-->Activate the base environment
+
+conda activate base
+
+
+-->list Down the Env
+
+conda env list
+
+
+-->To Activate the ENV
+
+**Make sure you must be in "base" environment always before creating a new environment !!**
+
+conda activate -n <ENV NAME> python=<version> -y

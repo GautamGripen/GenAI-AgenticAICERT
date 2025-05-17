@@ -1,0 +1,7 @@
+Github repository by trainer - https://github.com/RajeshThakur1/BMGR-MAY2025-GIAI-2.git ------- (Please clone the "README.md" file for all the commands given by Trainer !!! Do it regularly and copy the content into your file "CommandsToUse.txt")
+
+My repository - https://github.com/GautamGripen/GenAI-AgenticAICERT.git
+
+-- TIP - Create different environments as then there wont be any clash between rojects 
+-- IDE used - PyCharm
+-- Open source distribution - Anaconda (miniconda for package manager)
