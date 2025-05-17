@@ -5,3 +5,4 @@ My repository - https://github.com/GautamGripen/GenAI-AgenticAICERT.git
 -- TIP - Create different environments as then there wont be any clash between rojects 
 -- IDE used - PyCharm
 -- Open source distribution - Anaconda (miniconda for package manager)
+-- For sharing the link, trainer will upload in https://codeshare.io/YzdOzY
