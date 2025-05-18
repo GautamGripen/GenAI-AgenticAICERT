@@ -1,5 +1,5 @@
 ##This will let us know which all packages/ libraries to install
-##For API creation - fastapi
+##For API creation, framework used - fastapi
 ##for making multiple connections and handling users multiple - uvicorn
 ##for unit testing - pytest
 ## for making requests - requests
