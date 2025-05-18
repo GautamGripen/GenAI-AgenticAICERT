@@ -17,3 +17,7 @@ conda env list
 **Make sure you must be in "base" environment always before creating a new environment !!**
 
 conda activate -n <ENV NAME> python=<version> -y
+
+--> to isntall packages using a file
+
+pip install -r requirements.txt
