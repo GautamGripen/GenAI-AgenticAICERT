@@ -33,3 +33,30 @@ It tries to install everything as a transaction
 It (sort of) works with pip
 
 The Anaconda team maintains the core scientific stack you get when you install Anaconda, but the the “conda forge” channel includes a lot of the other major Python packages not included in Anaconda.
+
+-- Python is a interpreter based language, it makes it slow at the same time but then very dynamic. In programming, an interpreter is a program that executes instructions written in a high-level language by translating them one line at a time into machine code or an intermediate representation, and then immediately running that translated code. Unlike compilers, which translate the entire program before execution, interpreters process and execute code in real-time. 
+Here's a more detailed explanation: 
+Execution:
+Interpreters execute code directly, meaning they don't create a separate executable file like compilers do.
+Line-by-line translation:
+Interpreters read and translate one line of code at a time, and then execute that translated line.
+Real-time processing:
+This line-by-line approach allows for immediate execution and debugging, as errors can be caught and corrected as the program runs.
+Common use:
+Interpreters are often used for scripting languages and languages where real-time interaction and debugging are important, like Python, Ruby, and JavaScript.
+Performance:
+Interpreted languages can sometimes have slightly slower execution speeds than compiled languages, as they need to perform the translation at runtime.
+What is an Interpreter? Types, Differences, Advantages ...
+An interpreter is a program that directly executes the instructions in a high-level language, without converting it into machine c...
+
+toppr.com
+What is Interpreter: Types, Advantages and Disadvantages - Shiksha Online
+16 Aug 2023 — An interpreter is a type of computer program that directly executes instructions written in a programming or scripting ...
+
+Shiksha
+
+What is an Interpreter? - Naukri Code 360
+13 Jul 2024 — An interpreter is a program that executes code directly, translating it line-by-line into machine language at runtime.
+
+Naukri.com
+
