@@ -69,3 +69,42 @@ curl -X 'POST' \
   -d ''
   
 -- whenver we are developing API, always have root mentioned !!
+
+-- Open WebUI
+
+Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. It supports various LLM runners like Ollama and OpenAI-compatible APIs, with built-in inference engine for RAG, making it a powerful AI deployment solution.
+
+-- RAG
+
+Retrieval-Augmented Generation (RAG) is a software architecture that combines the capabilities of large language models (LLMs) with external information sources. This approach enhances LLMs by enabling them to access and utilize external knowledge to generate more accurate, up-to-date, and relevant text.
+ 
+Key Concepts of RAG:
+Retrieval:
+RAG systems first retrieve relevant information from external sources, such as databases, documents, or web pages, using search algorithms.
+Augmentation:
+The retrieved information is then combined with the LLM's existing knowledge to generate a response.
+Generation:
+The LLM synthesizes the retrieved information and its own internal knowledge to produce a complete and accurate response. 
+
+How RAG Works:
+1. User Input:
+A user poses a question or provides a prompt to the LLM. 
+2. Information Retrieval:
+The RAG system uses search algorithms to identify and retrieve relevant information from external data sources. 
+3. Context Enrichment:
+The retrieved information is combined with the user's prompt and fed back into the LLM. 
+4. Response Generation:
+The LLM generates a response that is grounded in both its own knowledge and the retrieved external information. 
+Benefits of RAG:
+Improved Accuracy:
+RAG systems can provide more accurate responses by incorporating external knowledge. 
+Enhanced Relevance:
+RAG systems can generate responses that are more relevant to the user's query. 
+Reduced Hallucinations:
+RAG systems can help to reduce the likelihood of LLMs generating incorrect or misleading information. 
+Access to Up-to-Date Information:
+RAG systems can access and incorporate external data that is not part of the LLM's training data, allowing it to provide up-to-date information. 
+Transparency and Trust:
+RAG systems can provide citations or references to source documents, enhancing transparency and user trust. 
+
+
