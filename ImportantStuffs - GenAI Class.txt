@@ -67,3 +67,5 @@ curl -X 'POST' \
   'http://127.0.0.1:5001/add?a=78&b=45.365' \
   -H 'accept: application/json' \
   -d ''
+  
+-- whenver we are developing API, always have root mentioned !!

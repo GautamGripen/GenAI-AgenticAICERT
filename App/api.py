@@ -1,8 +1,8 @@
 from fastapi import FastAPI, HTTPException   ##Importing FastAPI
-from starlette.responses import Response
+from starlette.responses import Response    ##It converts the response to JSON and even read from JSON
 import uvicorn
 app = FastAPI()     ##to utilise FastAPI
-@app.get("/root")     ##@app.get is used to convert the function as an API. We can use Http methods like Get, POST, etc..
+@app.get("/")     ##@app.get is used to convert the function as an API.This will be root or home page. We can use Http methods like Get, POST, etc..
 def root():                                ## root is like a home page
     return {"message": "Fast API in python"}
 
