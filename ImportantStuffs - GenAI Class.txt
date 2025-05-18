@@ -60,3 +60,10 @@ What is an Interpreter? - Naukri Code 360
 
 Naukri.com
 
+
+-- While we execute fast API output throug webpage, we will just add "/docs " at the end of the url and access the functions. Root is always the Home page of the webpage. When we execute the function, the curl out can be called from any API tool like postman etc..
+
+curl -X 'POST' \
+  'http://127.0.0.1:5001/add?a=78&b=45.365' \
+  -H 'accept: application/json' \
+  -d ''
