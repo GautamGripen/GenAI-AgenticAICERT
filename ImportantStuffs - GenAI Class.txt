@@ -6,3 +6,6 @@ My repository - https://github.com/GautamGripen/GenAI-AgenticAICERT.git
 -- IDE used - PyCharm
 -- Open source distribution - Anaconda (miniconda for package manager)
 -- For sharing the link, trainer will upload in https://codeshare.io/YzdOzY
+-- Ollama is like an emulator which helps in running LLMs locally in your machine. It runs the model similar to docker using the command "ollama run <model_name>". Advantage is that you will have data privacy.
+-- If Ollama doesn't work, use docker to run LLMs
+-- The cloud site to run LLMs withiout utilising your local machine - https://console.groq.com/home
