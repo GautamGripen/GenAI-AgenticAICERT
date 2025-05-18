@@ -9,3 +9,27 @@ My repository - https://github.com/GautamGripen/GenAI-AgenticAICERT.git
 -- Ollama is like an emulator which helps in running LLMs locally in your machine. It runs the model similar to docker using the command "ollama run <model_name>". Advantage is that you will have data privacy.
 -- If Ollama doesn't work, use docker to run LLMs
 -- The cloud site to run LLMs withiout utilising your local machine - https://console.groq.com/home
+-- Why Use Anaconda?
+ans- It gives you all the standard packages used in scientific computing in a convenient package without having to worry about installing them all individually with their dependencies.
+
+If you don't plan on using typical scientific computing packages (numpy, matplotlib, scipy, pandas, etc.) or any of the packaged software (jupyter notebooks, spyder IDE), then the only downside is that you're downloading software that you might not need.
+
+Regardless if you go with a distribution like Anaconda or just a fresh python environment, it's useful to learn about environment management and package installation with pip and venv or conda.
+
+Besides the convenience, there's not going to be a major difference between using anaconda vs setting up your own environment. It's all the same python underneath the hood.
+
+ALSO ---
+
+I tend to install Miniconda (Anaconda’s much smaller sibling distribution) as a way to get ‘conda’ (the package manager), and then use conda to create environments for each project.
+
+Conda has some really nice features:
+
+You can entirely define an environment, including the version of python, using ‘environment.yml’ files
+
+It has a much more powerful dependency solver than pip, making it less likely you’ll end up with an inconsistent environment
+
+It tries to install everything as a transaction
+
+It (sort of) works with pip
+
+The Anaconda team maintains the core scientific stack you get when you install Anaconda, but the the “conda forge” channel includes a lot of the other major Python packages not included in Anaconda.
