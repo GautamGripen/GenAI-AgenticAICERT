@@ -1,6 +1,6 @@
 # Here we will define our base directory and you will be reading the JSON files within the data folder and get the results
 import json
-BASE_DIR = r"C:\Dev\GenAI-AgenticAICERT/"  # we are giving our base directory and at the end forward slash/ so that it can go inside "data" folder
+BASE_DIR = r"C:\Dev\GenAI-AgenticAICERT-VSCode/"  # we are giving our base directory and at the end forward slash/ so that it can go inside "data" folder
 #Now we will read users from users.json
 def read_user():
     with open(f"{BASE_DIR}data/users.json") as stream:    #stream is just a variable
