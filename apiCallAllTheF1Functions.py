@@ -33,7 +33,7 @@ def read_team1(world_championships:int):
     return read_teams3(world_championships)
 
 
-# taking input form the user
+# taking input from the user
 if __name__ == '__main__':
     uvicorn.run(app, port=5001)
 

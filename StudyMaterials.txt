@@ -1,0 +1,13 @@
+Generative_AI_Interview_Questions - https://docs.google.com/document/d/1N-exdrM8qtB-tnwVIHwt1G1JeEv6cNpg/edit?usp=drive_link&ouid=115260868489275907693&rtpof=true&sd=true  
+
+ 
+
+Transformer practice - https://colab.research.google.com/drive/1UQ_j4IZ4HIKOVx0NTCPrEB5B2NM33ic8?usp=drive_link  
+
+ 
+
+Tokenization - https://docs.google.com/presentation/d/1DvSS8SwG2I_MSJaqbgDGbnUi7U3cFu_M/edit?usp=drive_link&ouid=115260868489275907693&rtpof=true&sd=true  
+
+ 
+
+Transformers Mistral AI Research - https://docs.google.com/presentation/d/1D7TVuDaFolDZN-I_ZTMLUabDsEpg3JU8/edit?usp=drive_link&ouid=115260868489275907693&rtpof=true&sd=true  

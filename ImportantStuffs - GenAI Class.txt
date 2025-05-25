@@ -288,6 +288,10 @@ $env:DATA_DIR="C:\open-webui\data"; uvx --python 3.11 open-webui@latest serve
 
 --> For listing down the containers in Docker, we use the command "docker ps" 
 
+--> Tuple V/S List
+
+Tuples are immutable objects and lists are mutable objects. Once defined, tuples have a fixed length and lists have a dynamic length. Tuples use less memory and are faster to access than to lists. Tuple syntax uses round brackets or parenthesis, and list syntax uses square brackets.
+
   
 
   
