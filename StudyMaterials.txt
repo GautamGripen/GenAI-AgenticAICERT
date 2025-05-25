@@ -10,4 +10,8 @@ Tokenization - https://docs.google.com/presentation/d/1DvSS8SwG2I_MSJaqbgDGbnUi7
 
  
 
-Transformers Mistral AI Research - https://docs.google.com/presentation/d/1D7TVuDaFolDZN-I_ZTMLUabDsEpg3JU8/edit?usp=drive_link&ouid=115260868489275907693&rtpof=true&sd=true  
+Transformers Mistral AI Research - https://docs.google.com/presentation/d/1D7TVuDaFolDZN-I_ZTMLUabDsEpg3JU8/edit?usp=drive_link&ouid=115260868489275907693&rtpof=true&sd=true 
+
+--> Best Research paper sites -  https://arxiv.org/ , check on Science Direct, Google scholar
+
+--> hugging face token - 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
