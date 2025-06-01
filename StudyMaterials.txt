@@ -17,6 +17,7 @@ Transformers Mistral AI Research - https://docs.google.com/presentation/d/1D7TVu
 --> hugging face token - hf_RHPPbavrInyzKMZntgqkNLFnInuZEwMYAIen 
 
 --> Open AI Platform - https://platform.openai.com/docs/overview
+--> For Open AI API 
 
 --> Langchain Documentation - https://python.langchain.com/docs/introduction/ and with RAG -https://python.langchain.com/docs/tutorials/rag/
 
@@ -26,3 +27,5 @@ Transformers Mistral AI Research - https://docs.google.com/presentation/d/1D7TVu
 
 --> Gemini API Key - Project -> gemini-api - 
 AIzaSyCC72ubtlW65nH7zTPUGXsP1krtdEPm8z0
+
+--> We use gradio framework by google in order to build UI for POCs
