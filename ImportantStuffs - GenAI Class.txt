@@ -292,6 +292,26 @@ $env:DATA_DIR="C:\open-webui\data"; uvx --python 3.11 open-webui@latest serve
 
 Tuples are immutable objects and lists are mutable objects. Once defined, tuples have a fixed length and lists have a dynamic length. Tuples use less memory and are faster to access than to lists. Tuple syntax uses round brackets or parenthesis, and list syntax uses square brackets.
 
+--> Important links for Agentic AI 
+https://dashboard.exa.ai/home
+exa = Exa(api_key = "d8b52aa9-7dce-416b-aa87-1a0fb98dc4d5")
+https://www.firecrawl.dev/app?authSuccess=true&?status=Success!&status_description=You%20are%20now%20signed%20in.
+API KEY - fc-36525ed263ea4c8a83b6d7f8e15e9bfe
+
+
+-->The Internet of Things (IoT) refers to a network of physical objects – "things" – embedded with sensors, software, and other technologies that enable them to connect and exchange data with other devices and systems over the internet. These "things" can range from everyday household items to complex industrial tools. Essentially, IoT allows everyday objects to be connected and communicate, creating a vast network of interconnected devices that can be monitored, controlled, and analyzed. 
+Here's a more detailed explanation:
+Connectivity:
+The core of IoT is the ability for devices to connect to the internet and communicate with each other and with central systems. 
+Sensors:
+Sensors are embedded in the "things" to collect data about their environment or status, such as temperature, location, or motion. 
+Data Exchange:
+The data collected by sensors is transmitted over the network, allowing for real-time monitoring, analysis, and control of the devices. 
+Examples:
+IoT applications can be found in various areas, including smart homes (thermostats, lighting), connected cars, industrial automation (IIoT), and smart cities (traffic management, environmental monitoring). 
+Benefits:
+IoT offers benefits such as increased efficiency, improved resource management, enhanced safety, and new opportunities for innovation across various industries. 
+
   
 
   

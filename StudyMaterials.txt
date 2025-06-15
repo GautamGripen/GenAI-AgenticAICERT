@@ -14,7 +14,7 @@ Transformers Mistral AI Research - https://docs.google.com/presentation/d/1D7TVu
 
 --> Best Research paper sites -  https://arxiv.org/ , check on Science Direct, Google scholar
 
---> hugging face token - hf_RHPPbavrInyzKMZntgqkNLFnInuZEwMYAIen 
+--> hugging face token - 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 
 
 --> Open AI Platform - https://platform.openai.com/docs/overview
 --> For Open AI API 
@@ -29,3 +29,4 @@ Transformers Mistral AI Research - https://docs.google.com/presentation/d/1D7TVu
 AIzaSyCC72ubtlW65nH7zTPUGXsP1krtdEPm8z0
 
 --> We use gradio framework by google in order to build UI for POCs
+
