@@ -338,6 +338,11 @@ Healthcare, finance, and other industries: Automating tasks and improving effici
 
 --> for database client - https://dbeaver.io/download/
 --> for free postregres SQL database connection - https://rnacentral.org/help/public-database
+
+
+---> What is a class ?
+
+In object-oriented programming, a class is a blueprint or template for creating objects. It defines the structure and behavior (data and functions) that objects of that class will possess. Think of a class as a blueprint for a house, and objects as individual houses built from that blueprint. 
   
 
   
