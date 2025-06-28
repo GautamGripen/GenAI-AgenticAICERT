@@ -18,10 +18,12 @@ Transformers Mistral AI Research - https://docs.google.com/presentation/d/1D7TVu
 
 --> Open AI Platform - https://platform.openai.com/docs/overview
 --> For Open AI API 
+OPEN AI API Key - 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
 
 --> Langchain Documentation - https://python.langchain.com/docs/introduction/ and with RAG -https://python.langchain.com/docs/tutorials/rag/
 
---> Langsmith API Key - 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 (this is library of Langchain which tells us about the cost)
+--> Langsmith API Key - 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 
+(this is library of Langchain which tells us about the cost)
 
 --> Google Gemini LLM - https://aistudio.google.com/prompts/new_chat 
 
