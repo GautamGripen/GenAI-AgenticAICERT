@@ -18,7 +18,7 @@ Transformers Mistral AI Research - https://docs.google.com/presentation/d/1D7TVu
 
 --> Open AI Platform - https://platform.openai.com/docs/overview
 --> For Open AI API 
-OPEN AI API Key - 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
+OPEN AI API Key - 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
 
 --> Langchain Documentation - https://python.langchain.com/docs/introduction/ and with RAG -https://python.langchain.com/docs/tutorials/rag/
 
