@@ -32,3 +32,5 @@ AIzaSyCC72ubtlW65nH7zTPUGXsP1krtdEPm8z0
 
 --> We use gradio framework by google in order to build UI for POCs
 
+--> Autogen Documentation - https://microsoft.github.io/autogen/0.2/docs/Getting-Started/
+
