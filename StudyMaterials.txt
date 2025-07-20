@@ -34,3 +34,5 @@ AIzaSyCC72ubtlW65nH7zTPUGXsP1krtdEPm8z0
 
 --> Autogen Documentation - https://microsoft.github.io/autogen/0.2/docs/Getting-Started/
 
+--> CrewAI Documentation - https://docs.crewai.com/en/installation
+
