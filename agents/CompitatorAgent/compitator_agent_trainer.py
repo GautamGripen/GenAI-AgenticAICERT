@@ -1,18 +1,22 @@
+#This Python code is just to demonstrate on how we can convert the code in notebook to a python file.
+#We will also use UI for demonstartion..
 from exa_py import Exa
 from phi.agent import Agent
 from phi.tools.firecrawl import FirecrawlTools
 from phi.model.openai import OpenAIChat
 from phi.tools.duckduckgo import DuckDuckGo
 import pandas as pd
-import streamlit as st
+import streamlit as st                       #streamlit is like gradio for building UI
 
 
 st.set_page_config(page_title="AI Competitor Intelligence Agent Team", layout="wide")
 
+#using sidebar to pass the password for the API keys. (like a text box !!)
 openai_api_key = st.sidebar.text_input("OpenAI API Key", type="password")
 firecrawl_api_key = st.sidebar.text_input("Firecrawl API Key", type="password")
 exa_api_key = st.sidebar.text_input("Exa API Key", type="password")
 
+#if the below API keys are passed, online then the session will start, else give warning
 if openai_api_key and firecrawl_api_key and exa_api_key:
     st.session_state.openai_api_key = openai_api_key
     st.session_state.firecrawl_api_key = firecrawl_api_key
@@ -22,7 +26,8 @@ else:
 
 url = st.text_input("Enter your company URL :")
 description = st.text_area("Enter a description of your company (if URL is not available):")
-
+#We will pick the API keys from session, so that the API key wont be shared, every user will have his/ her own API key
+##only Streamlit will have this feature, gradio doesn't have this feature.
 if "openai_api_key" in st.session_state and "firecrawl_api_key" in st.session_state and "exa_api_key" in st.session_state:
     exa = Exa(api_key=st.session_state.exa_api_key)
 
@@ -146,7 +151,7 @@ if "openai_api_key" in st.session_state and "firecrawl_api_key" in st.session_st
             for line in table_lines[2:]:  # Skip header and separator rows
                 row_data = [
                     cell.strip()
-                    for cell in line.split('|')
+                    for cell in line.split('|')    # splitting with pipe "|" symbol !!
                     if cell.strip()
                 ]
                 if len(row_data) == len(headers):
