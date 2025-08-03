@@ -35,3 +35,6 @@ AIzaSyCC72ubtlW65nH7zTPUGXsP1krtdEPm8z0
 
 --> CrewAI Documentation - https://docs.crewai.com/en/installation
 
+--> ### What Are AI Agents? - AI agents are software programs that use artificial intelligence to perform tasks and pursue goals on behalf of users, often with a degree of autonomy. They can reason, plan, and learn, adapting their actions based on data and feedback to achieve their objectives. Unlike traditional AI, which relies on pre-defined rules, AI agents can leverage large language models (LLMs) and other AI/ML tools to understand complex situations and make decisions independently. 
+
+--> Termius Password - Nike@123456
