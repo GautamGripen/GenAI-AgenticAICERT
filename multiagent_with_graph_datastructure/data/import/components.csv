@@ -1,0 +1,16 @@
+component_id,component_name,component_type,assembly_id,material,weight_kg,cost_usd,supplier_id,created_date
+CMP001,Cylinder Head,Engine Part,ASM001,Cast Iron,8.5,450.00,SUP001,2024-01-15
+CMP002,Piston,Engine Part,ASM001,Aluminum,0.8,125.00,SUP002,2024-01-15
+CMP003,Crankshaft,Engine Part,ASM001,Forged Steel,12.3,780.00,SUP003,2024-01-15
+CMP004,Valve,Engine Part,ASM001,Stainless Steel,0.15,45.00,SUP001,2024-01-15
+CMP005,Gear Set,Transmission Part,ASM002,Hardened Steel,5.2,320.00,SUP004,2024-01-18
+CMP006,Torque Converter,Transmission Part,ASM002,Steel/Aluminum,3.8,650.00,SUP005,2024-01-18
+CMP007,Brake Caliper,Brake Part,ASM003,Cast Iron,2.1,180.00,SUP006,2024-01-20
+CMP008,Brake Pad,Brake Part,ASM003,Ceramic Composite,0.5,85.00,SUP007,2024-01-20
+CMP009,Brake Disc,Brake Part,ASM003,Cast Iron,4.2,220.00,SUP006,2024-01-20
+CMP010,Shock Absorber,Suspension Part,ASM004,Steel/Rubber,3.5,290.00,SUP008,2024-01-22
+CMP011,Spring,Suspension Part,ASM004,Spring Steel,1.8,95.00,SUP009,2024-01-22
+CMP012,Control Arm,Suspension Part,ASM004,Aluminum,2.4,165.00,SUP010,2024-01-22
+CMP013,Wiring Harness,Electrical,ASM005,Copper/PVC,2.1,340.00,SUP011,2024-01-25
+CMP014,Connector,Electrical,ASM005,Plastic/Metal,0.1,25.00,SUP012,2024-01-25
+CMP015,Radiator,Cooling Part,ASM006,Aluminum,4.5,380.00,SUP013,2024-01-28

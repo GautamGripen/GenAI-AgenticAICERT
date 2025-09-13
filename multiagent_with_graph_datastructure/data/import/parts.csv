@@ -1,0 +1,16 @@
+part_id,part_name,part_number,category,material,weight_g,cost_usd,stock_quantity,min_stock,reorder_point,created_date
+PRT001,Bolt M8x20,BLT-M8-20,Fastener,Steel,15,0.25,5000,1000,1500,2024-01-10
+PRT002,Nut M8,NUT-M8,Fastener,Steel,8,0.15,3000,500,750,2024-01-10
+PRT003,Washer M8,WSH-M8,Fastener,Steel,3,0.05,8000,1500,2000,2024-01-10
+PRT004,Gasket Head,GSK-HD-001,Seal,Rubber,25,12.50,200,50,75,2024-01-12
+PRT005,O-Ring 50mm,ORG-50,Seal,Nitrile Rubber,5,2.30,800,100,150,2024-01-12
+PRT006,Ball Bearing 6204,BRG-6204,Bearing,Steel,180,15.75,150,30,45,2024-01-14
+PRT007,Oil Filter,FLT-OIL-001,Filter,Paper/Metal,220,8.90,300,50,75,2024-01-14
+PRT008,Air Filter,FLT-AIR-001,Filter,Paper/Foam,180,12.40,250,40,60,2024-01-14
+PRT009,Spark Plug,SPK-PLG-001,Ignition,Ceramic/Metal,45,18.50,400,80,120,2024-01-16
+PRT010,Fuse 15A,FSE-15A,Electrical,Metal/Ceramic,2,1.25,1000,200,300,2024-01-16
+PRT011,Relay 12V,RLY-12V,Electrical,Plastic/Metal,35,8.75,300,60,90,2024-01-16
+PRT012,Wire 14AWG,WIR-14AWG,Electrical,Copper/PVC,50,0.85,2000,400,600,2024-01-18
+PRT013,Hose Clamp 25mm,HCL-25,Clamp,Stainless Steel,12,1.40,1500,300,450,2024-01-18
+PRT014,Rubber Hose 10mm,RHO-10,Hose,Rubber,80,3.20,500,100,150,2024-01-18
+PRT015,Metal Bracket,BRK-MTL-001,Bracket,Aluminum,150,6.50,200,40,60,2024-01-20

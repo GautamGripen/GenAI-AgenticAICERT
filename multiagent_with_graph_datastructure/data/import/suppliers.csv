@@ -1,0 +1,16 @@
+supplier_id,supplier_name,contact_person,email,phone,address,city,state,country,postal_code,rating,certification,payment_terms,created_date
+SUP001,MetalCraft Industries,John Smith,j.smith@metalcraft.com,+1-555-0101,123 Industrial Blvd,Detroit,MI,USA,48201,4.5,ISO9001,NET30,2024-01-01
+SUP002,Precision Parts Co,Sarah Johnson,s.johnson@precisionparts.com,+1-555-0102,456 Manufacturing Ave,Cleveland,OH,USA,44101,4.8,ISO9001/TS16949,NET45,2024-01-01
+SUP003,SteelForge Ltd,Michael Brown,m.brown@steelforge.com,+1-555-0103,789 Forge Road,Pittsburgh,PA,USA,15201,4.2,ISO9001,NET30,2024-01-01
+SUP004,GearTech Solutions,Lisa Davis,l.davis@geartech.com,+1-555-0104,321 Gear Street,Milwaukee,WI,USA,53201,4.6,ISO9001/TS16949,NET30,2024-01-01
+SUP005,AutoTrans Systems,Robert Wilson,r.wilson@autotrans.com,+1-555-0105,654 Transmission Way,Akron,OH,USA,44301,4.4,ISO9001,NET45,2024-01-01
+SUP006,BrakeMaster Corp,Jennifer Miller,j.miller@brakemaster.com,+1-555-0106,987 Brake Lane,Indianapolis,IN,USA,46201,4.7,ISO9001/TS16949,NET30,2024-01-01
+SUP007,FrictionTech Inc,David Anderson,d.anderson@frictiontech.com,+1-555-0107,147 Friction Ave,Dayton,OH,USA,45401,4.3,ISO9001,NET30,2024-01-01
+SUP008,SuspensionPro,Mary Taylor,m.taylor@suspensionpro.com,+1-555-0108,258 Suspension St,Grand Rapids,MI,USA,49501,4.5,ISO9001,NET30,2024-01-01
+SUP009,SpringWorks,James Thomas,j.thomas@springworks.com,+1-555-0109,369 Spring Road,Toledo,OH,USA,43601,4.1,ISO9001,NET45,2024-01-01
+SUP010,AluminumCraft,Patricia Jackson,p.jackson@aluminumcraft.com,+1-555-0110,741 Aluminum Way,Lansing,MI,USA,48901,4.6,ISO9001,NET30,2024-01-01
+SUP011,ElectroWire Systems,Christopher White,c.white@electrowire.com,+1-555-0111,852 Electric Blvd,Columbus,OH,USA,43201,4.4,ISO9001/ISO14001,NET30,2024-01-01
+SUP012,ConnectorTech,Linda Harris,l.harris@connectortech.com,+1-555-0112,963 Connector Lane,Cincinnati,OH,USA,45201,4.2,ISO9001,NET45,2024-01-01
+SUP013,CoolingSolutions,Mark Martin,m.martin@coolingsolutions.com,+1-555-0113,159 Cooling Ave,Buffalo,NY,USA,14201,4.8,ISO9001/TS16949,NET30,2024-01-01
+SUP014,FilterPro Industries,Susan Thompson,s.thompson@filterpro.com,+1-555-0114,357 Filter Street,Rochester,NY,USA,14601,4.5,ISO9001,NET30,2024-01-01
+SUP015,FastenerWorld,Daniel Garcia,d.garcia@fastenerworld.com,+1-555-0115,468 Fastener Road,Syracuse,NY,USA,13201,4.0,ISO9001,NET45,2024-01-01

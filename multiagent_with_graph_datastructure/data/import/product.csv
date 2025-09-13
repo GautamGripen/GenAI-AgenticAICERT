@@ -1,0 +1,11 @@
+product_id,product_name,model,category,price_usd,weight_kg,dimensions,color,engine_type,transmission_type,fuel_type,mpg_city,mpg_highway,year_model,status,created_date
+PRD001,Sedan Deluxe,SD-2024,Passenger Car,28500.00,1450.5,4800x1850x1450,Silver,2.0L Turbo,Automatic,Gasoline,28,35,2024,active,2024-01-01
+PRD002,SUV Explorer,SE-2024,SUV,42000.00,2100.8,5200x1950x1750,Black,3.5L V6,Automatic,Gasoline,22,28,2024,active,2024-01-01
+PRD003,Compact Eco,CE-2024,Compact Car,22000.00,1200.3,4200x1700x1400,White,1.5L Hybrid,CVT,Hybrid,45,50,2024,active,2024-01-01
+PRD004,Truck Heavy Duty,THD-2024,Pickup Truck,48500.00,2800.9,5800x2100x1900,Red,5.0L V8,Manual,Gasoline,18,24,2024,active,2024-01-01
+PRD005,Sports Coupe,SC-2024,Sports Car,55000.00,1380.2,4400x1800x1300,Blue,3.0L Twin Turbo,Manual,Gasoline,20,28,2024,active,2024-01-01
+PRD006,Electric Sedan,ES-2024,Electric Car,45000.00,1650.4,4750x1820x1420,Gray,Electric Motor,Single Speed,Electric,120,110,2024,active,2024-01-01
+PRD007,Minivan Family,MF-2024,Minivan,35000.00,1950.6,5100x1950x1800,Green,2.4L,Automatic,Gasoline,25,32,2024,active,2024-01-01
+PRD008,Luxury Sedan,LS-2024,Luxury Car,68000.00,1750.8,5000x1900x1500,Pearl White,4.0L V8,Automatic,Gasoline,20,26,2024,active,2024-01-01
+PRD009,Crossover Compact,CC-2024,Crossover,32000.00,1600.7,4600x1850x1650,Orange,2.5L,Automatic,Gasoline,26,33,2024,active,2024-01-01
+PRD010,Convertible Sport,CS-2024,Convertible,62000.00,1520.3,4500x1850x1350,Yellow,3.5L V6,Automatic,Gasoline,22,30,2024,discontinued,2024-01-01

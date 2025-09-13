@@ -1,0 +1,11 @@
+assembly_id,assembly_name,description,weight_kg,dimensions,created_date,status
+ASM001,Engine Block Assembly,Complete engine block with cylinders,45.5,600x400x350,2024-01-15,active
+ASM002,Transmission Assembly,Automatic transmission unit,35.2,500x300x250,2024-01-18,active
+ASM003,Brake System Assembly,Complete brake system with calipers,12.8,400x200x150,2024-01-20,active
+ASM004,Suspension Assembly,Front suspension with struts,18.7,350x250x200,2024-01-22,active
+ASM005,Electrical Harness Assembly,Main wiring harness,3.2,varied,2024-01-25,active
+ASM006,Cooling System Assembly,Radiator and cooling components,8.9,450x300x100,2024-01-28,active
+ASM007,Fuel Injection Assembly,Electronic fuel injection system,6.4,300x200x150,2024-02-01,active
+ASM008,Dashboard Assembly,Complete dashboard with instruments,15.3,1200x300x200,2024-02-03,active
+ASM009,Seat Assembly,Driver seat with adjustments,22.1,600x600x400,2024-02-05,active
+ASM010,Door Assembly,Complete door with window mechanism,18.9,800x1200x100,2024-02-08,discontinued
