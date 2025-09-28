@@ -42,3 +42,22 @@ AIzaSyCC72ubtlW65nH7zTPUGXsP1krtdEPm8z0
 --> Azure Linux :
 username - team
 Password - F1b5KGeNplqfdYP4vswE511j1dw
+
+--> Database information:
+docker run --name my-postgres \
+  -e POSTGRES_PASSWORD=customerbot \
+  -e POSTGRES_USER=postgres \
+  -e POSTGRES_DB=customer_support \
+  -p 5432:5432 \
+  -v pgdata:/var/lib/postgresql/data \
+  -d postgres:16
+
+
+docker run -d \
+  --name mongodb \
+  -p 27017:27017 \
+  -v ~/mongodb_data:/data/db \
+  -e MONGO_INITDB_ROOT_USERNAME=customerbot \
+  -e MONGO_INITDB_ROOT_PASSWORD=customerbot \
+  --restart unless-stopped \
+  mongo:latest
