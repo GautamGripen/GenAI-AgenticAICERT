@@ -41,7 +41,7 @@ AIzaSyCC72ubtlW65nH7zTPUGXsP1krtdEPm8z0
 
 --> Azure Linux :
 username - team
-Password - F1b5KGeNplqfdYP4vswE511j1dw
+Password - hewxe7-fabpyT-kywmub
 
 --> Database information:
 docker run --name my-postgres \
